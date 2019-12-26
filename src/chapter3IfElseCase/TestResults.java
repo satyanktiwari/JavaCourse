@@ -1,6 +1,7 @@
-package chapter3;
+package chapter3IfElseCase;
 
 import java.util.Scanner;
+/*4*/
 
 public class TestResults {
 

@@ -1,4 +1,4 @@
-package chapter4;
+package chapter4Loops;
 
 /*
     Practice excercise for the loops
@@ -17,8 +17,8 @@ public class RolOfThedice {
 
         for(int i=1; i<=maxRolls; i++){
 
-            int die = random.nextInt(6);
-            System.out.println(die);
+            int die = random.nextInt(7);
+//            System.out.println("value of die is: "+ die);
             die = die +1;
             currentSpace = currentSpace + die;
 

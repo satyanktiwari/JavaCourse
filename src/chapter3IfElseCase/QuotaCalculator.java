@@ -1,9 +1,10 @@
-package chapter3;
+package chapter3IfElseCase;
 
 import java.util.Scanner;
 
 /*
 If else
+1
  */
 public class QuotaCalculator {
 

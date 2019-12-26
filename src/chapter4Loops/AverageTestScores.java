@@ -1,4 +1,4 @@
-package chapter4;
+package chapter4Loops;
 /*
 Nested loops
 Find the avaerage of each students test scores

@@ -1,4 +1,4 @@
-package chapter4;
+package chapter4Loops;
 /*
 Do while loop do-while loop
  */

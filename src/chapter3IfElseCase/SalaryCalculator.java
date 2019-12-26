@@ -1,7 +1,8 @@
-package chapter3;
+package chapter3IfElseCase;
 
 /*
 if statements and else
+5
  */
 import java.util.Scanner;
 

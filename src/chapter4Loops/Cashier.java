@@ -1,4 +1,4 @@
-package chapter4;
+package chapter4Loops;
 /*
 For loop
  */
@@ -11,15 +11,12 @@ public class Cashier {
         System.out.println("Enter the number of items to scan:");
         Scanner scanner = new Scanner(System.in);
         int quantity = scanner.nextInt();
-
-
         double total = 0;
 
 //        Create loop to iterate through all of the items and accumalate costs
         for (int i=0; i< quantity; i++){
             System.out.println("Enter the cost of the item: ");
             double price = scanner.nextDouble();
-
             total = total + price;
         }
         scanner.close();

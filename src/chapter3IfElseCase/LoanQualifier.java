@@ -1,9 +1,10 @@
-package chapter3;
+package chapter3IfElseCase;
 
 import java.util.Scanner;
 
 /*
 Nested Ifs
+2
  */
 public class LoanQualifier {
     public static void main (String args[]){

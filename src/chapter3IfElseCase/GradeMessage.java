@@ -1,7 +1,9 @@
-package chapter3;
+package chapter3IfElseCase;
 /*
+4
 Switch statement we check for the equality condition unlike if-else if where
 we can use comparisions like <, >
+6
  */
 
 import java.util.Scanner;

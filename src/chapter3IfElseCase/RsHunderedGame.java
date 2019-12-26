@@ -1,15 +1,13 @@
-package chapter3;
+package chapter3IfElseCase;
 /*
 if-else-if
+3
  */
 
 import java.util.Scanner;
 
 public class RsHunderedGame {
     public static void main(String args[]){
-
-
-
         Scanner scanner = new Scanner(System.in);
         String message;
 //        String message;
@@ -23,6 +21,7 @@ public class RsHunderedGame {
         int numOfTwo = scanner.nextInt();
         System.out.println("How many coins of 5?");
         int numOfFive = scanner.nextInt();
+        scanner.close();
 
         int totalCoins = (numOfOne*one) + (numOfTwo*two) + (numOfFive*five);
 

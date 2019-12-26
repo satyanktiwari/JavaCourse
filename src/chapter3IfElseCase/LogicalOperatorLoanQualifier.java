@@ -1,9 +1,11 @@
-package chapter3;
+package chapter3IfElseCase;
 
 import java.util.Scanner;
 
 /*
 Logical operators
+excercise
+1
  */
 public class LogicalOperatorLoanQualifier {
     public static void main (String args[]){

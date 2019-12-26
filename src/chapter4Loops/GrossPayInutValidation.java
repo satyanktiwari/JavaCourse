@@ -1,4 +1,4 @@
-package chapter4;
+package chapter4Loops;
 /*
 This is an example of the while loop
  */
@@ -18,7 +18,7 @@ public class GrossPayInutValidation {
 
 //        Validate input
         while (hoursWorked > maxHours || hoursWorked < 1) {
-            System.out.println("Invalid entrly, Your hours must be between 1 and 40. enter again");
+            System.out.println("Invalid entry, Your hours must be between 1 and 40. enter again");
 //            the variable below is call the seintenel
             hoursWorked = scanner.nextDouble();
         }
